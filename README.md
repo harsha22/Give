@@ -15,10 +15,12 @@
   -Now we have provided for tests in Basic English character, words and sentence recognition. <br />
   
     -The child will orally speak out the text he sees on the screen and will be evaluated on how many he
-    can correctly identify. <br />
+    can correctly identify. 
+    <br />
     
   -We have also provided for a basic Math test comprising of simple arithmetic operations like <br />
-    -Addition, Subtraction, Multiplication and Division. <br />*
+    -Addition, Subtraction, Multiplication and Division. 
+    <br />
     
     -The child will solve the question and chose from the options provided. 
   
